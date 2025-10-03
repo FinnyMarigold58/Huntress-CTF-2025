@@ -1,3 +1,10 @@
+---
+title: RFC 9309
+category: WarmUps
+points: 10
+---
+
+
 # RFC 9309
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  

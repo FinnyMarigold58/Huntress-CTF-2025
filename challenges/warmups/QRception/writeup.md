@@ -1,3 +1,10 @@
+---
+title: QRception
+category: WarmUps
+points: 10
+---
+
+
 # QRception
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  

@@ -1,3 +1,10 @@
+---
+title: Spam Test
+category: WarmUps
+points: 10
+---
+
+
 # Spam Test
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  

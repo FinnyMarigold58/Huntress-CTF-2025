@@ -1,0 +1,10 @@
+title: Huntress CTF 2025 Writeups
+description: Writeups for Huntress CTF challenges
+theme: minima
+markdown: kramdown
+
+collections:
+  challenges:
+    output: true
+    directory: challenges
+    permalink: /challenges/:path/

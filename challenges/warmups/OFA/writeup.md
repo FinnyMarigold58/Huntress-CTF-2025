@@ -1,3 +1,9 @@
+---
+title: OFA
+category: WarmUps
+points: 10
+---
+
 # OFA
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  

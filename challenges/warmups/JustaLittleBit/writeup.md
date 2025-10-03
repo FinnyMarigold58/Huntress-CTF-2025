@@ -1,3 +1,9 @@
+---
+title: Just a Little Bit
+category: WarmUps
+points: 10
+---
+
 # Just a Little Bit
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  
