@@ -12,3 +12,5 @@ Scanning the provided QR will give you ascii art of another qr code.
 ![First QR](images/screenshot1.png)
 
 Scanning this second flag will give you the challenge flag.
+
+![Second QR Result](images/screenshot2.png)
