@@ -28,7 +28,7 @@ if not any([ re.match(r"^%s$" % allowed, command, len(ALLOWLIST)) for allowed in
         return jsonify(ok=False, stdout="", stderr="error: Run 'help' to see valid commands.\n", code=2)
 ```
 
-There is a simply issue with this command, we only need this check to pass once, and the 3rd parameter of re.match is `flags`. By setting this value to 4, the length of ALLOWLIST, we is effectively setting flags to `re.MULTILINE`. This mean that ^ acts as the beginning of the string or beginning of a new line and $ is the end of the string or end each line.
+There is a simply issue with this command, we only need this check to pass once, and the 3rd parameter of re.match is `flags`. By setting this value to 8, the length of ALLOWLIST, we is effectively setting flags to `re.MULTILINE`. This mean that ^ acts as the beginning of the string or beginning of a new line and $ is the end of the string or end each line.
 
 Looking at how code is executed (simply passed into /bin/sh), we can implement new lines to run commands. Using all this knowledge together we can modify the post requests the website makes to get the flag.txt
 
