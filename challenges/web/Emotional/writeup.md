@@ -23,7 +23,7 @@ The server must have been storing this somehow and referencing it later, but thi
 
 ## Require issue
 
-Knowing this, I experiemented with requireing fs so that I could simply read out the file. I would keep getting a require is undefined error. 
+Knowing this, I experimented with requiring fs so that I could simply read out the file. I would keep getting a require is undefined error. 
 
 ![Require Error](images/reqError.png)
 
