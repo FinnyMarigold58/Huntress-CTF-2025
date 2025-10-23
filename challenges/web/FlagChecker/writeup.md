@@ -8,6 +8,7 @@ points: 10
 # Flag Checker
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  
+**Author:** @Soups71
 **Points:** 10  
 **Challenge Description:**
 

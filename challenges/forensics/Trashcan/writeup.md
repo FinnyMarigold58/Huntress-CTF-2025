@@ -7,6 +7,7 @@ points: 10
 # Trashcan
 **CTF:** Huntress CTF 2025
 **Category:** Forensics
+**Author:** John Hammond
 **Points:** 10  
 **Challenge Description:**
 

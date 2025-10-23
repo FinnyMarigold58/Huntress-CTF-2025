@@ -1,6 +1,7 @@
 # Webshellz
 **CTF:** Huntress CTF 2025
 **Category:** Forensics  
+**Author:** Ben Folland
 **Points:** 10  
 **Challenge Description:**
 

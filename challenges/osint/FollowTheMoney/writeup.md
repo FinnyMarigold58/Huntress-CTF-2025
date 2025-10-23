@@ -1,6 +1,7 @@
 # Follow the Money
 **CTF:** Huntress CTF 2025
 **Category:** OSINT  
+**Author:** @Brady
 **Points:** 10  
 **Challenge Description:**
 

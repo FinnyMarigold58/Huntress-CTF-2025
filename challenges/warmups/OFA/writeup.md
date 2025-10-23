@@ -7,6 +7,7 @@ points: 10
 # OFA
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  
+**Author:** Matt Kiely (HuskyHacks)
 **Points:** 10  
 **Challenge Description:**
 

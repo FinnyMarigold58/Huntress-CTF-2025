@@ -7,6 +7,7 @@ points: 10
 # Trust Me
 **CTF:** Huntress CTF 2025
 **Category:** Miscellaneous  
+**Author:** John Hammond
 **Points:** 10  
 **Challenge Description:**
 

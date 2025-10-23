@@ -8,6 +8,7 @@ points: 10
 # RFC 9309
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  
+**Author:** John Hammond
 **Points:** 10  
 **Challenge Description:**
 

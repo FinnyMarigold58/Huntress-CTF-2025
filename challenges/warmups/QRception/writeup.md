@@ -8,6 +8,7 @@ points: 10
 # QRception
 **CTF:** Huntress CTF 2025
 **Category:** Warmups  
+**Author:** John Hammond
 **Points:** 10  
 **Challenge Description:**
 
