@@ -10,5 +10,10 @@ Do **not** run or open challenge artifacts outside of a controlled environment (
 ## Challenges
 
 {% for challenge in site.challenges %}
-- [{{ challenge.title }}]({{ challenge.url }}) — {{ challenge.category }} ({{ challenge.points }} pts)
+- {{ challenge.title }} — {{ challenge.category }} ({{ challenge.points }} pts)
 {% endfor %}
+
+---
+
+## Final Results
+<img width="1720" height="983" alt="image" src="https://github.com/user-attachments/assets/350c9d80-255a-4b0f-8739-814985e1b432" />
