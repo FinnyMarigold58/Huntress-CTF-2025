@@ -6,6 +6,9 @@ This repository contains my writeups for the **Huntress CTF 2025**.
 Handle artifacts with care — open them only in a safe, isolated environment such as a virtual machine.  
 I am not responsible for any misuse.
 
+<img width="1720" height="983" alt="image" src="https://github.com/user-attachments/assets/4790879e-a3f1-4a60-83f3-f6441c8c7052" />
+
+
 ---
 
 ## View the Writeups
